@@ -164,13 +164,13 @@ main {
     padding: 20px 300px;
     margin-bottom: 50px;
 }
-.email{
+form{
     background-color:  #FFF4D6;
     text-align: center;
     padding: 180px 175px;
     border-radius: 5px;
 }
-.email input{
+form input{
     width: 275px;
     border: none;
     padding: 16px 12px;
@@ -178,7 +178,7 @@ main {
     font-weight: 700;
     border-radius: 5px 0 0 5px;
 }
-.email input:focus{
+form input:focus{
     outline-color: #FF5959;
 }
 footer{
