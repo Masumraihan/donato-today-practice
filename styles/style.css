@@ -26,6 +26,10 @@
     margin-top: 130px;
 }
 
+input:focus{
+    outline-color: #FF5959;
+}
+
 /* header styles */
 .banner {
     background-image: url('../images/donation1.jpg');
@@ -185,9 +189,6 @@ form input{
     font-size: 18px;
     font-weight: 700;
     border-radius: 5px 0 0 5px;
-}
-form input:focus{
-    outline-color: #FF5959;
 }
 footer{
     text-align: center;
