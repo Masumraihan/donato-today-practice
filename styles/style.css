@@ -67,9 +67,17 @@ main {
     padding: 0 300px;
 }
 
+#amount{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #DADADA;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+}
+
 .donate-container {
     padding: 0 60px;
-    border-bottom: 1px solid #DADADA;
     margin-bottom: 30px;
 }
 
